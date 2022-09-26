@@ -1,6 +1,8 @@
 # spring-reddit-clone
 Reddit clone built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, Spring MVC. 
 
+(Buildt with the help Programming Techie - Sai Upadhyayula)
+
 # Recent Changes
 
 - Updated to latest spring boot version - 2.6.2
